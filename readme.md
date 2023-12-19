@@ -58,7 +58,7 @@ Change the `&perline=3` to any number between 1 and 50.
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 ```
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://ikyih.github.io/more-spsific-skill-icons/icons?i=AS2,Sketch)]([https://ikyih.github.io/more-spsific-skill-icons]
 
 # Centering Icons
 
