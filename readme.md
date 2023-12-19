@@ -31,8 +31,7 @@ Change the `?i=js,html,css` to a list of your skills seprated by ","s! You can f
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 ```
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
+[![My Skills](https://ikyih.github.io/more-spsific-skill-icons/icons?i=AS2,Sketch)
 # Themed Icons
 
 Some icons have a dark and light themed background. You can specify which theme you want as a url parameter.
